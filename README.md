@@ -2,33 +2,47 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full-Stack-React%20%2B%20Express-61DAFB" alt="Full-Stack" />
-  <img src="https://img.shields.io/badge/AI%20Agent-LLM%20%2B%20MCP-4D6BFE" alt="AI Agent" />
+  <img src="https://img.shields.io/badge/LLM%20Agent-MCP%20%2B%20Tools-4D6BFE" alt="LLM Agent" />
   <img src="https://img.shields.io/badge/Quant-A%E8%82%A1%E5%9B%9E%E6%B5%8B-00B894" alt="Quant" />
   <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-5-3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-11-00599C" alt="C++" />
 </p>
 
-热爱把 AI 变成真正可用的工具。这里是我 10 个公开项目中的精选，全部可独立运行：
+热爱把大模型能力变成真正可用的工具。以下是我全部 **11 个公开仓库** 的速览（另有 3 个私有仓库）：
 
-## 🏗️ 项目矩阵
+## 🏗️ 精选项目
 
 | 项目 | 一句话简介 | 亮点 |
 |---|---|---|
 | 🏦 [stock-research-system](https://github.com/xiaomaozjj666/stock-research-system) | A 股全栈智能投研平台 | 多专家协同研判 · 量化回测（DSR / CSCV / Walk-Forward）· 模拟盘闭环 |
-| 📊 [data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | LLM 端到端数据分析工作台 | 上传数据 → 自动清洗 → 统计 → 可视化报告，Plan-and-Execute + ReAct |
+| 📊 [data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | 端到端数据分析工作台 | 上传数据 → 自动清洗 → 统计 → 可视化报告，Plan-and-Execute + ReAct |
 | 🐛 [issue-agent](https://github.com/xiaomaozjj666/issue-agent) | GitHub Issue 根因分析智能体 | 有界工具循环 + 行级证据 + 修复补丁，默认只读 |
-| 🕷️ [web-crawler](https://github.com/xiaomaozjj666/web-crawler) | Scrapling 风格隐身爬虫库 | TLS 指纹隐身 · 自适应选择器 · JS 逆向 Agent · 验证码识别 |
+| 🕷️ [web-crawler](https://github.com/xiaomaozjj666/web-crawler) | Scrapling 风格隐身爬虫库 | TLS 指纹隐身 · 自适应选择器 · JS 逆向 · 验证码识别 |
 | 🛡️ [relay-audit](https://github.com/xiaomaozjj666/relay-audit) | OpenAI 兼容中转 API 质检工具 | 20+ 项安全/质量检测，一键 HTML 报告 |
-| 🔢 [base-conversion](https://github.com/xiaomaozjj666/base-conversion) | 三语言进制转换 + 算法演示 | C++ / Python / JS 同函数对照，真实耗时实测图表 |
-| 📚 [programming-exercises](https://github.com/xiaomaozjj666/programming-exercises) | 多语言编程入门练习 | C / C++ / JS / Python 示例，CI 自动编译校验 |
-| 🧰 [code-practice](https://github.com/xiaomaozjj666/code-practice) | 多语言练习项目骨架 | 标准化目录结构，四种语言开箱即用 |
+| 📚 [programming-exercises](https://github.com/xiaomaozjj666/programming-exercises) | 多语言编程练习（三仓合一） | 四语示例 + 三语进制转换（负数/小数）+ 项目骨架 |
+| 🔧 [deepseek-harness](https://github.com/xiaomaozjj666/deepseek-harness) | DeepSeek Harness 官方框架 fork | 插件化 Agent 框架，本地维护与学习 |
+| 👁️ [dsh-plugin-describe-image](https://github.com/xiaomaozjj666/dsh-plugin-describe-image) | describe_image 插件 fork | 给纯文本模型接入视觉能力的 VLM 工具插件 |
+
+## 🗂️ 全部公开仓库
+
+1. 🏦 [stock-research-system](https://github.com/xiaomaozjj666/stock-research-system) — A 股智能投研平台
+2. 📊 [data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) — 数据分析工作台
+3. 🐛 [issue-agent](https://github.com/xiaomaozjj666/issue-agent) — Issue 根因分析智能体
+4. 🕷️ [web-crawler](https://github.com/xiaomaozjj666/web-crawler) — 隐身爬虫库
+5. 🛡️ [relay-audit](https://github.com/xiaomaozjj666/relay-audit) — 中转 API 质检
+6. 📚 [programming-exercises](https://github.com/xiaomaozjj666/programming-exercises) — 多语言编程练习
+7. 🔧 [deepseek-harness](https://github.com/xiaomaozjj666/deepseek-harness) — Harness 框架 fork
+8. 👁️ [dsh-plugin-describe-image](https://github.com/xiaomaozjj666/dsh-plugin-describe-image) — 识图插件 fork
+9. 📦 [base-conversion](https://github.com/xiaomaozjj666/base-conversion) — 已合并至 programming-exercises，归档
+10. 🧰 [code-practice](https://github.com/xiaomaozjj666/code-practice) — 已合并至 programming-exercises，归档
+11. 👤 [xiaomaozjj666](https://github.com/xiaomaozjj666/xiaomaozjj666) — 本主页仓库
 
 ## 🧰 技术栈
 
 ```mermaid
 flowchart LR
-    subgraph AI["AI / Agent"]
+    subgraph AGENT["LLM / Agent"]
         A1["LLM 应用（DeepSeek / OpenAI）"]
         A2["LangGraph · FastAPI · MCP"]
     end
@@ -41,10 +55,10 @@ flowchart LR
         D2["SQLite · 图表引擎"]
     end
     subgraph LANG["语言"]
-        L1["Python · TypeScript · C++ · JavaScript"]
+        L1["Python · TypeScript · JavaScript · C++ · C"]
     end
-    AI --> WEB
-    AI --> DATA
+    AGENT --> WEB
+    AGENT --> DATA
     WEB --> LANG
     DATA --> LANG
 ```
@@ -53,8 +67,9 @@ flowchart LR
 
 | 指标 | 数值 |
 |---|---|
-| 公开仓库 | 10 个（含 8 个精选项目） |
-| 语言覆盖 | Python · TypeScript · JavaScript · C++ · C · Java · Vue · C# |
+| 公开仓库 | 11 个（含 2 个 fork 与本主页；其中 2 个已合并归档） |
+| 私有仓库 | 3 个（不在此列出） |
+| 语言覆盖 | Python · TypeScript · JavaScript · C++ · C |
 | 测试习惯 | 单测 / E2E / CI 门禁全覆盖 |
 
 ---
