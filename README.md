@@ -34,8 +34,8 @@
 6. 📚 [programming-exercises](https://github.com/xiaomaozjj666/programming-exercises) — 多语言编程练习
 7. 🔧 [deepseek-harness](https://github.com/xiaomaozjj666/deepseek-harness) — Harness 框架 fork
 8. 👁️ [dsh-plugin-describe-image](https://github.com/xiaomaozjj666/dsh-plugin-describe-image) — 识图插件 fork
-9. 📦 [base-conversion](https://github.com/xiaomaozjj666/base-conversion) — 已合并至 programming-exercises，归档
-10. 🧰 [code-practice](https://github.com/xiaomaozjj666/code-practice) — 已合并至 programming-exercises，归档
+9. 🗄️ [base-conversion](https://github.com/xiaomaozjj666/base-conversion) — 已合并至 programming-exercises（仅留 benchmark 归档）
+10. 🗄️ [code-practice](https://github.com/xiaomaozjj666/code-practice) — 已合并至 programming-exercises/starter-template（仅留归档）
 11. 👤 [xiaomaozjj666](https://github.com/xiaomaozjj666/xiaomaozjj666) — 本主页仓库
 
 ## 🧰 技术栈
