@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-11-00599C" alt="C++" />
 </p>
 
-热爱把大模型能力变成真正可用的工具。以下是我全部 **11 个公开仓库** 的速览（另有 3 个私有仓库）：
+热爱把大模型能力变成真正可用的工具。以下是我全部 **9 个活跃公开仓库** 的速览（另有 2 个已合并归档：`base-conversion`、`code-practice`，内容均已并入 [programming-exercises](https://github.com/xiaomaozjj666/programming-exercises)；另有 3 个私有仓库）：
 
 ## 🏗️ 精选项目
 
@@ -34,9 +34,7 @@
 6. 📚 [programming-exercises](https://github.com/xiaomaozjj666/programming-exercises) — 多语言编程练习
 7. 🔧 [deepseek-harness](https://github.com/xiaomaozjj666/deepseek-harness) — Harness 框架 fork
 8. 👁️ [dsh-plugin-describe-image](https://github.com/xiaomaozjj666/dsh-plugin-describe-image) — 识图插件 fork
-9. 🗄️ [base-conversion](https://github.com/xiaomaozjj666/base-conversion) — 已合并至 programming-exercises（仅留 benchmark 归档）
-10. 🗄️ [code-practice](https://github.com/xiaomaozjj666/code-practice) — 已合并至 programming-exercises/starter-template（仅留归档）
-11. 👤 [xiaomaozjj666](https://github.com/xiaomaozjj666/xiaomaozjj666) — 本主页仓库
+9. 👤 [xiaomaozjj666](https://github.com/xiaomaozjj666/xiaomaozjj666) — 本主页仓库
 
 ## 🧰 技术栈
 
@@ -67,7 +65,7 @@ flowchart LR
 
 | 指标 | 数值 |
 |---|---|
-| 公开仓库 | 11 个（含 2 个 fork 与本主页；其中 2 个已合并归档） |
+| 公开仓库 | 9 个活跃 + 2 个已归档（含 2 个 fork 与本主页） |
 | 私有仓库 | 3 个（不在此列出） |
 | 语言覆盖 | Python · TypeScript · JavaScript · C++ · C |
 | 测试习惯 | 单测 / E2E / CI 门禁全覆盖 |
