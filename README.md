@@ -2,12 +2,12 @@
 
 你好，我是 J。
 
-主要深耕领域：
+主要方向：
 
 - **LLM 应用**：开发 Agent 工作流、RAG、数据分析等，并维护一个基于微信 iLink Bot 协议的 AI bot。
 - **量化研究**：搭建一站式投研系统，覆盖多专家分析、策略回测（含 DSR / CSCV 过拟合检验）、模拟盘与风险归因。
 
-日常以 Python 和 TypeScript 为主，也写 C++；常用 FastAPI、React 与 LangGraph，模型主要用 DeepSeek。
+日常以 Python 和 TypeScript 为主，C++ 为辅；常用 FastAPI、React 与 LangGraph等架构。
 
 所有公开项目均配置 GitHub Actions 测试与质量门禁。
 
