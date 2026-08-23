@@ -1,18 +1,27 @@
 # J
 
-😄 你好，我是 J，写代码的。
+你好，我是 J，一名软件工程师。日常主要用 Python 和 TypeScript 开发 LLM 应用与量化研究工具，也写 C++。
 
-主要折腾 LLM 应用：数据分析、爬虫、微信机器人这类，顺带做点 A 股量化的东西。项目基本都是自己干活时缺什么就做什么，做完就扔 GitHub 了。
+目前的工作聚焦两个方向：
 
-- [A 股投研系统](https://github.com/xiaomaozjj666/stock-research-system) — 多专家分析、量化回测、模拟盘，港美股基本面也能查
-- [数据分析 Agent](https://github.com/xiaomaozjj666/data-analysis-agent) — 丢个数据集进去，自动清洗、统计、出报告
-- [Issue 根因分析](https://github.com/xiaomaozjj666/issue-agent) — 自动查 GitHub Issue，输出带行号证据的修复建议
-- [隐身爬虫库](https://github.com/xiaomaozjj666/web-crawler) — TLS 指纹、自适应选择器、JS 逆向、验证码
-- [中转 API 质检](https://github.com/xiaomaozjj666/relay-audit) — 安全、身份、质量、性能一次跑完，出 HTML 报告
-- [多语言入门练习](https://github.com/xiaomaozjj666/programming-exercises) — Python / JS / C / C++，老的 code-practice 和 base-conversion 都并过来了
+- **LLM 应用**：基于 DeepSeek 等模型开发智能体（Agent）、检索增强、数据分析和网页爬虫工具，并维护一个运行在微信上的 AI 机器人。
+- **量化研究**：搭建 A 股投研系统，覆盖多专家分析、量化回测（含 DSR / CSCV 过拟合检验）、模拟盘与风险归因。
 
-base-conversion、code-practice 两个仓库已经归档。还有 3 个私有仓库（微信 AI 机器人、Obsidian 笔记库、比赛用的机器人），自己用的，就不放出来了。
+所有公开项目均配置 GitHub Actions 测试与质量门禁。
 
-常用 Python、TypeScript、C++，偶尔碰 FastAPI、React、LangGraph。模型用 DeepSeek 多一点。
+## 开源项目
 
-有话想说就去对应仓库开 Issue，看到都会回。
+| 项目 | 说明 |
+|---|---|
+| [stock-research-system](https://github.com/xiaomaozjj666/stock-research-system) | A 股投研系统：多专家分析、量化回测、模拟盘，支持港美股基本面 |
+| [data-analysis-agent](https://github.com/xiaomaozjj666/data-analysis-agent) | LLM 数据分析工作台：上传数据集自动完成清洗、统计、可视化与报告生成 |
+| [issue-agent](https://github.com/xiaomaozjj666/issue-agent) | GitHub Issue 根因分析：有界工具循环、行级证据与修复建议，默认只读 |
+| [web-crawler](https://github.com/xiaomaozjj666/web-crawler) | Python 爬虫库：TLS 指纹隐身、自适应选择器、JS 渲染与逆向 |
+| [relay-audit](https://github.com/xiaomaozjj666/relay-audit) | OpenAI 兼容中转 API 质检：身份、安全、质量与性能评估，输出 HTML 报告 |
+| [programming-exercises](https://github.com/xiaomaozjj666/programming-exercises) | 多语言入门练习：Python / JavaScript / C / C++，含进制转换与项目骨架 |
+
+另有 3 个私有仓库（微信 AI 机器人、个人知识库、比赛用服务机器人），暂不公开。
+
+## 联系
+
+如对项目有疑问或建议，欢迎在对应仓库提交 Issue。
