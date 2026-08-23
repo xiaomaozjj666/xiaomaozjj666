@@ -20,7 +20,11 @@
 | [issue-agent](https://github.com/xiaomaozjj666/issue-agent) | GitHub Issue 根因分析：有界工具循环、行级证据与修复建议，默认只读，可开启 PR 提案 |
 | [web-crawler](https://github.com/xiaomaozjj666/web-crawler) | Python 爬虫库：TLS 指纹隐身、自适应选择器、JS 渲染与逆向、验证码识别，附带 Spider 框架与本地 Web UI |
 | [relay-audit](https://github.com/xiaomaozjj666/relay-audit) | OpenAI 兼容中转 API 质检：身份、安全、质量与性能评估（20+ 项检测），输出 HTML 报告 |
-| [programming-exercises](https://github.com/xiaomaozjj666/programming-exercises) | 多语言入门练习：Python / JavaScript / C / C++，含进制转换（支持负数 / 小数）与项目骨架 |
+| [deepseek-harness](https://github.com/xiaomaozjj666/deepseek-harness) | DeepSeek 驱动的可扩展插件框架（Everything is a Plugin），TypeScript 实现 |
+| [dsh-plugin-describe-image](https://github.com/xiaomaozjj666/dsh-plugin-describe-image) | deepseek-harness 插件：通过 OpenAI 兼容 VLM 端点为纯文本模型赋予视觉能力 |
+| [base-conversion](https://github.com/xiaomaozjj666/base-conversion) | 进制转换工具与算法时间复杂度演示，C++ / Python / JavaScript 三语言实现 |
+| [programming-exercises](https://github.com/xiaomaozjj666/programming-exercises) | 多语言入门练习：Python / JavaScript / C / C++，含进制转换与项目骨架 |
+| [code-practice](https://github.com/xiaomaozjj666/code-practice) | 多语言（Python / JS / C / C++）练习项目骨架，含工程化模板与 CI |
 
 另有 3 个私有仓库（微信 AI 机器人、个人知识库、比赛用服务机器人），暂不公开。
 
